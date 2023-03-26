@@ -1,0 +1,11 @@
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\bin\Debug\THA_WEEK4_EKA_Y.exe.config
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\bin\Debug\THA_WEEK4_EKA_Y.exe
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\bin\Debug\THA_WEEK4_EKA_Y.pdb
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.csproj.AssemblyReference.cache
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.Form1.resources
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.Properties.Resources.resources
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.csproj.GenerateResource.cache
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.csproj.CoreCompileInputs.cache
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.exe
+C:\Users\Asus1\source\repos\THA_WEEK4_EKA_Y\THA_WEEK4_EKA_Y\obj\Debug\THA_WEEK4_EKA_Y.pdb
